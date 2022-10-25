@@ -1,0 +1,10 @@
+C:\Users\sayed\source\repos\oAuthSample\oAuthSample\bin\Debug\oAuthSample.exe.config
+C:\Users\sayed\source\repos\oAuthSample\oAuthSample\bin\Debug\oAuthSample.exe
+C:\Users\sayed\source\repos\oAuthSample\oAuthSample\bin\Debug\oAuthSample.pdb
+C:\Users\sayed\source\repos\oAuthSample\oAuthSample\obj\Debug\oAuthSample.csprojAssemblyReference.cache
+C:\Users\sayed\source\repos\oAuthSample\oAuthSample\obj\Debug\CartMig.frmConnectShopify.resources
+C:\Users\sayed\source\repos\oAuthSample\oAuthSample\obj\Debug\oAuthSample.Properties.Resources.resources
+C:\Users\sayed\source\repos\oAuthSample\oAuthSample\obj\Debug\oAuthSample.csproj.GenerateResource.cache
+C:\Users\sayed\source\repos\oAuthSample\oAuthSample\obj\Debug\oAuthSample.csproj.CoreCompileInputs.cache
+C:\Users\sayed\source\repos\oAuthSample\oAuthSample\obj\Debug\oAuthSample.exe
+C:\Users\sayed\source\repos\oAuthSample\oAuthSample\obj\Debug\oAuthSample.pdb
